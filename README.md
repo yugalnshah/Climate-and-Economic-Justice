@@ -77,7 +77,7 @@ To complete this method:
 
 This is the expected output for TestCommunityData.csv when addToStateLayer, addToCountyLayer, and addToCommunityLayer are complete. As I complete these methods, I will build each one of these layers starting from states.
 
-<img width="1036" alt="Screenshot 2024-05-10 at 10 20 41 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/57332c10-6b47-48d5-a956-081cd1042656">
+<img width="1030" alt="Screenshot 2024-05-13 at 12 02 11 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/6bf14ef5-771a-458f-9840-f9c899eea967">
 
 ### 4. disadvantagedCommunities
 
@@ -96,7 +96,7 @@ To complete this method:
  
 This is the expected output for this method when tested in the driver using TestCommunityData.csv. Linked structure must be created by calling createLinkedStructure in the driver before testing this method:
 
-<img width="1035" alt="Screenshot 2024-05-10 at 10 22 33 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/473f909a-8c72-49d1-b41e-8fb8b5afebd6">
+<img width="1028" alt="Screenshot 2024-05-13 at 12 03 09 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/a53289d8-93e1-4bc0-8737-fbd13a043f74">
 
 ### 5. nonDisadvantagedCommunities
 
@@ -115,7 +115,7 @@ To complete this method:
  
 This is the expected output for this method when tested in the driver using TestCommunityData.csv. Linked structure must be created by calling createLinkedStructure in the driver before testing this method:
 
-<img width="845" alt="Screenshot 2024-05-10 at 10 26 14 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/bb2d617f-fa47-4ce8-ad78-99041bb9f885">
+<img width="844" alt="Screenshot 2024-05-13 at 12 06 07 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/e19299d7-f3be-47e1-b8d2-ddaadd86666a">
 
 ### 6. statesPMLevels
 
@@ -130,7 +130,7 @@ To complete this method:
 
 This is the expected output for this method when tested in the driver using TestCommunityData.csv. Linked structure must be created by calling createLinkedStructure in the driver before testing this method:
 
-<img width="546" alt="Screenshot 2024-05-10 at 10 27 17 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/e8abdc86-eaaf-498b-a1f0-a98de87dc282">
+<img width="542" alt="Screenshot 2024-05-13 at 12 06 50 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/661d68e8-d0c5-4577-8abc-b58232b02293">
 
 ### 7. chanceOfFlood
 
@@ -146,7 +146,7 @@ To complete this method:
  
 This is the expected output for this method when tested in the driver using TestCommunityData.csv. Linked structure must be created by calling createLinkedStructure in the driver before testing this method:
 
-<img width="855" alt="Screenshot 2024-05-10 at 10 29 35 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/14bfcca8-7bc0-4136-b84d-b809ad3a4975">
+<img width="846" alt="Screenshot 2024-05-13 at 12 07 26 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/127da9a1-f9ac-4a0e-b7f4-73e515d2638e">
 
 ### 8. lowestIncomeCommunities
 
@@ -164,7 +164,7 @@ To complete this method:
 
 Refer to the diagram below for steps 3 and 4:
 
-<img width="1127" alt="Screenshot 2024-05-10 at 10 32 24 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/6035a8b7-4457-4d38-8bdb-7470a327b372">
+<img width="1123" alt="Screenshot 2024-05-13 at 12 08 02 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/46248e84-a633-4c8e-967a-c1f35535440d">
 
 **Note 1**: the ArrayList order does not matter.
 
@@ -172,6 +172,6 @@ Refer to the diagram below for steps 3 and 4:
 
 This is the expected output for this method when tested in the driver using TestCommunityData.csv. You must create the linked structure by calling createLinkedStructure in the driver before testing this method:
 
-<img width="848" alt="Screenshot 2024-05-10 at 10 32 57 PM" src="https://github.com/yugalnshah/-Climate-and-Economic-Justice/assets/162384655/059bc43f-d0ce-49b3-8b43-c6127e013585">
+<img width="840" alt="Screenshot 2024-05-13 at 12 08 21 AM" src="https://github.com/yugalnshah/Climate-and-Economic-Justice/assets/162384655/9979d9b4-247e-455a-8148-968ff3a5c09c">
 
 
